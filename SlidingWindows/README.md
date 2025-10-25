@@ -21,3 +21,5 @@ Pattern matching and frequency tracking
 My LeetCode Solutions
 
 [643-maximum-average-subarray-i](https://github.com/Milkessa97/Leetcode-Solutions/tree/37a30e4dfbdd6faf5fc1121d385570deed8eb775/643-maximum-average-subarray-i)
+
+[438-find-all-anagrams-in-a-string](https://github.com/Milkessa97/Leetcode-Solutions/tree/58c227d8d2af8fdab0acb8cdd6f54db2d3a5f3d9/438-find-all-anagrams-in-a-string)
