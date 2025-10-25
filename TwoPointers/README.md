@@ -23,4 +23,4 @@ Sliding window optimizations
 
 My LeetCode Solutions
 
-1798-max-number-of-k-sum-pairs
+1798 - [1798-max-number-of-k-sum-pairs](https://github.com/Milkessa97/Leetcode-Solutions/tree/37a30e4dfbdd6faf5fc1121d385570deed8eb775/1798-max-number-of-k-sum-pairs)
