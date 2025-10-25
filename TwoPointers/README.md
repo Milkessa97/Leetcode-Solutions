@@ -19,3 +19,8 @@ Reversing parts of arrays or strings
 Merging sorted arrays/lists
 
 Sliding window optimizations
+
+
+My LeetCode Solutions
+
+1798-max-number-of-k-sum-pairs
