@@ -8,15 +8,6 @@ Each solution focuses on writing clean, efficient, and well-documented code to s
 The Sliding Window technique is a powerful pattern used to solve problems involving subarrays, substrings, or sequences.
 It involves maintaining a “window” (a subset of elements) that slides across the input data — expanding or shrinking depending on problem constraints — to avoid redundant computations.
 
-Common problem types include:
-
-Finding maximum/minimum sum subarrays
-
-Longest/shortest substrings with certain properties
-
-Counting or optimizing values within a range
-
-Pattern matching and frequency tracking
 
 My LeetCode Solutions
 
