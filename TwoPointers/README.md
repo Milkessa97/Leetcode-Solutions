@@ -26,3 +26,5 @@ My LeetCode Solutions
 [1798-max-number-of-k-sum-pairs](https://github.com/Milkessa97/Leetcode-Solutions/tree/37a30e4dfbdd6faf5fc1121d385570deed8eb775/1798-max-number-of-k-sum-pairs)
 
 [2581-divide-players-into-teams-of-equal-skil](https://github.com/Milkessa97/Leetcode-Solutions/tree/cf5250e955c054e3b555e08c72bf723892e4a673/2581-divide-players-into-teams-of-equal-skill)
+
+[917-boats-to-save-people](https://github.com/Milkessa97/Leetcode-Solutions/tree/37a30e4dfbdd6faf5fc1121d385570deed8eb775/917-boats-to-save-people)
