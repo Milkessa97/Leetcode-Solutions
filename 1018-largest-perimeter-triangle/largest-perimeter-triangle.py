@@ -1,12 +1,8 @@
 class Solution:
     def largestPerimeter(self, nums: List[int]) -> int:
-        nums.sort(reverse=True)
-        a,b,c=0,1,2
-        while c<len(nums):
-            if nums[a]>=nums[b]+nums[c]:
-                a+=1
-                b+=1
-                c+=1
-            else:
-                return nums[a]+nums[b]+nums[c]
+        nums.sort()
+        for i in range(len(nums)-1,1,-1):
+            twoSum=nums[i-1]+nums[i-2]
+            if nums[i]<twoSum:
+                return nums[i]+twoSum
         return 0
