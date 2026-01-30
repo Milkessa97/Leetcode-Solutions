@@ -1,6 +1,11 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        count_of_elements = Counter(nums)
-        for num,freq in count_of_elements.items():
-            if freq > len(nums)/2:
-                return num
+        num , count = nums[0] , 1
+        for ind in range(1,len(nums)):
+            if count == 0:
+                num = nums[ind]
+            if nums[ind] == num:
+                count += 1
+            else:
+                count -= 1
+        return num
